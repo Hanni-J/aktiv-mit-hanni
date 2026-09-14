@@ -1,5 +1,8 @@
 ---
-name: John Doe
-image: https://images.unsplash.com/photo-1680399524789-6af50a3738f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mjk5Mjl8MHwxfGFsbHwyNXx8fHx8fDJ8fDE2ODA1Mjk1NTY&ixlib=rb-4.0.3&q=80&w=1080
+name: Hanni Jakob
+image: /assets/img/Hanni Jakob_Personal Trainer.jpeg
 ---
-This is {{ title }}'s longer bio/description.
+
+Als zertifizierte Personal Trainerin mit Spezialisierung auf medizinische Sportrehabilitation verbinde ich fundiertes Fachwissen mit persönlicher Erfahrung. Nach eigenen gesundheitlichen Herausforderungen und zwei Hüftoperationen weiß ich, wie wichtig professionelle und emphatische Begleitung auf dem Weg zu mehr Gesundheit ist.
+
+**Qualifikationen:** Fitness Trainer Professional, Personal Trainer, med. Personal Trainer für Sportrehabilitation, Ernährungsberater, u.a.
