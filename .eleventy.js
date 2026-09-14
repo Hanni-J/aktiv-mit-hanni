@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
 
   // https://www.11ty.dev/docs/plugins/image/
   eleventyConfig.addShortcode("generateImage", async function(src, alt, sizes) {
+       if (src && src.indexOf("http") !== 0) { src = src.replace(/^\//, ""); }
     
     let metadata = await Image(src, {
       widths: [500, 1000, "auto"],
